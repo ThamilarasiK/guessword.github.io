@@ -4,7 +4,7 @@ const wordList = [
         hint: "programming language"
     },
     {
-        word: "guitar",
+        word: "piano",
         hint: "a musical instrument"
     },
     {
@@ -20,33 +20,15 @@ const wordList = [
         hint: "a yellow precious metal"
     },
     {
-        word: "ebay",
+        word: "meesho",
         hint: "online shopping site"
     },
-    {
-        word: "golang",
-        hint: "programming language"
-    },
+    
     {
         word: "coding",
         hint: "related to programming"
     },
-    {
-        word: "matrix",
-        hint: "science fiction movie"
-    },
-    {
-        word: "bugs",
-        hint: "related to programming"
-    },
-    {
-        word: "avatar",
-        hint: "epic science fiction film"
-    },
-    {
-        word: "gif",
-        hint: "a file format for image"
-    },
+
     {
         word: "mental",
         hint: "related to the mind"
@@ -55,10 +37,7 @@ const wordList = [
         word: "map",
         hint: "diagram represent of an area"
     },
-    {
-        word: "island",
-        hint: "land surrounded by water"
-    },
+
     {
         word: "hockey",
         hint: "a famous outdoor game"
@@ -67,10 +46,7 @@ const wordList = [
         word: "chess",
         hint: "related to an indoor game"
     },
-    {
-        word: "viber",
-        hint: "a social media app"
-    },
+   
     {
         word: "github",
         hint: "code hosting platform"
@@ -167,10 +143,7 @@ const wordList = [
         word: "search",
         hint: "act to find something"
     },
-    {
-        word: "key",
-        hint: "small piece of metal"
-    },
+   
     {
         word: "India",
         hint: "a country name"
@@ -186,11 +159,7 @@ const wordList = [
     {
         word: "photo",
         hint: "representation of person or scene"
-    },
-    {
-        word: "nile",
-        hint: "largest river in the world"
-    },
+    },,
     {
         word: "rain",
         hint: "related to a water"
